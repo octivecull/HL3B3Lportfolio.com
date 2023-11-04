@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OBI</title>
+</head>
+<body background="images/Bubble.png">
+    <h1 style="color: floralwhite;">Welcome to the online world of Obi!</h1>
+    
+        <p style="color: ivory;">I'm thrilled to have you here. Whether you stumbled upon this website by chance or were directed here intentionally, I invite you to embark on a journey of discovery and inspiration. As an avid explorer, learner, and passionate individual, I've created this platform to share my experiences, insights, and expertise with you. From thought-provoking articles to captivating visuals, I aim to ignite your curiosity, broaden your perspectives, and empower you to embrace new possibilities.
+    </p>
+    <p style="color: antiquewhite;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;" >
+        Join me as we dive into topics ranging from personal growth and creativity to technology and beyond. Together, let's explore the wonders that await us on this digital playground. Get ready to unlock your potential, expand your horizons, and make a positive impact. So, without further ado, let's dive in and embark on this exciting adventure together!
+    </p>
+    
+    <img src="images/76880087900.png" width="290" alt="Mugshot">
+    
+    <audio controls autoplay >
+        <source controls autoplay src="audio/SAULT_-_Wildfires_(musmore.com).mp3">
+        Your browser does not support the audio element.
+    </audio>
+    <br>
+    <table border="5" style="color: ghostwhite;">
+        <tr>
+            <th bgcolor="Blue">Platforms i worked with</th>
+            <th bgcolor="Green">Education</th>
+            <th bgcolor="Orange">Skills</th>
+            <th bgcolor="Red">References</th>
+            <th bgcolor="Purple">Hobbies</th>
+        </tr>
+        <tr>
+            <th>Microsoft Word</th>
+            <th>Computer Architechture</th>
+            <th>Good Decision-making</th>
+            <th>PEPPS POLOKWANE</th>
+            <th>Gaming</th>
+        </tr>
+        <tr>
+            <th >Exel</th>
+            <th>Digital Proficiency Literacy</th>
+            <th>Computer Skills</th>
+            <th>CTU Training Solutions</th>
+            <th>Go Carting</th>
+            </tr>
+            <tr>
+            <th >Power Point</th>
+            <th>Python</th>
+            <th>Time Management</th>
+            <th></th>
+            <th>Tennis</th>
+        </tr>
+        <tr>
+            <th >Microsoft Acces</th>
+            <th>HTML</th>
+            <th>Team Work</th>
+            <th></th>
+            <th>Swimming</th>
+        </tr>
+        <tr>
+            <th >Cloud Fundimentals</th>
+            <th>CSS</th>
+            <th>Adaptability</th>
+            <th></th>
+            <th></th>
+        </tr>
+    
+        
+        </head>
+        </html>
+    </table>
+   <br>
+    <h style="color: burlywood;">About me</h>
+    <br>
+    <p2 style="color: ghostwhite;"> I am a young man who is adventurous and always looking for opportunities. I try my best to improve those around me through my actions. I enjoy online games because I get to play and challenge other people. This is because I enjoy playing against other humans due to them being hard to predict.
+        I always enjoy spending time outside, even if it is for work-related purposes.
+    </p2>
+    <p style="color: burlywood; font-size: medium; font-family: Verdana, Geneva, Tahoma, sans-serif;">A short video for your eyes</p>
+    <video src="videos/1.mp4" controls width="400" height="600"></video>
+
+
+    <h3 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: azure;">Please fill in this form</h3>
+
+    <br>
+    <form>
+        <div style="color: aqua;">
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="fname" placeholder="Tony" required> </label>
+        </div>
+
+        <br>
+        
+        <div style="color: coral;">
+            <label for="fname">Last Name</label>
+            <input type="text" id="fname" name="fname" placeholder="Spark" required> </label>
+        </div>
+        
+        <br>
+
+        <div style="color: gold;">
+            <label for="fname">Email Adress</label>
+            <input type="text" id="fname" name="fname" placeholder="starkindustries.gmail.com" required> </label>
+        </div>
+
+        <div style="color:magenta;">
+            <label for="pass">Password</label>
+            <input type="password" id="pass" name="pass" maxlength="8" placeholder="1a2b3c4d" required> </label>
+        </div>
+        
+        <div style="color: orangered;">
+            <label for="Phone">phone</label>
+            <input type="tel" id="phone" name="phone" placeholder="+27 123456789" required> </label>
+        </div>
+
+        <div style="color: springgreen;">
+            <label for="date">Date of submission</label>
+            <input type="date" id="date" name="date" required> </label>
+        </div>
+
+        <br>
+
+        <div>
+            <input type="reset">
+        </div>
+
+        <br>
+
+        <div>
+            <input type="submit">
+        </div>
+        
+        <br>
+         
+    <h4 style="color: floralwhite;font-style: italic;">Get to know me</h4>
+    <ul>
+        <li style="color: rgb(255, 191, 0);">Phone number: 0762185903</li>
+        <li style="color: #72c8cd;">Email: obadiahhlebela@gmail.com</li>
+    </ul>
+
+    <p>
+        <strong style="color: darksalmon;">Address:</strong> 
+        <br style="color: burlywood;">31 Bendor Dr 
+        <br style="color: darksalmon;">Bendor Park
+    </p>
+    <p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1105.5800987033037!2d29.47946893391354!3d-23.896785195862464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ec6d82f0e328253%3A0x5829d7b37b2dbf7e!2sCTU%20Training%20Solutions%20Polokwane!5e0!3m2!1sen!2sza!4v1696438901699!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </iframe>
+    </p>
+
+</body>
+</html>
